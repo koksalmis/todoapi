@@ -9,7 +9,7 @@ In this project a basic TODO API will be implemented in JAVA 11 & Spring Boot wi
   * Service Logging
   * Service Logging for Integrated Third Part Services
 * Exception Handling
-* Proper Readme File
+* Readme File
 * Database with Well Thought Transaction Management
 * Unit Tests
 * Integration Tests
