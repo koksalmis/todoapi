@@ -4,6 +4,7 @@ In this project a basic **todo list api** will be implemented in JAVA 11 & Sprin
 ### what are those topics?
 * api documentation
 * api authentication & authorization
+* api request validation
 * logging structure
   * application logging
   * service logging
