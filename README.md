@@ -2,7 +2,7 @@
 In this project a basic **todo list api** will be implemented in JAVA 11 & Spring Boot with 'best practices' in some topics. I am also thinking to dockerize this application to run a cloud.
 
 ### what are those topics?
-* api documentation
+* api documentation with -> https://springdoc.org/ [done]
 * api authentication & authorization
 * api request validation
 * logging structure
@@ -29,6 +29,10 @@ practicing, learning and for fun :)
 * .
 * .
 * .
-  
 
+## swagger-ui url
+``
+http://localhost:8080/swagger-ui/index.html
+``
 
+<img src="src/main/resources/images/swagger-ui.png"/>
